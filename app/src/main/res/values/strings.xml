@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Shikimori</string>
+
+    <string name="filter_genres">Жанры</string>
+    <string name="filter_duration">Длительность</string>
+    <string name="filter_kind">Тип</string>
+    <string name="filter_my_list">Список</string>
+    <string name="filter_season">Сезон</string>
+    <string name="filter_score">Оценка</string>
+    <string name="filter_status">Статус</string>
+    <string name="filter_age_rating">Возрастной рейтинг</string>
+    <string name="filter_order">Сортировка</string>
+
+    <string name="duration_small">Меньше 10 минут</string>
+    <string name="duration_medium">Меньше 30 минут</string>
+    <string name="duration_large">Больше 30 минут</string>
+
+    <string name="score_over_6">6+</string>
+    <string name="score_over_7">7+</string>
+    <string name="score_over_8">8+</string>
+
+    <string name="rate_status_planned">Запланировано</string>
+    <string name="rate_status_watching">Смотрю</string>
+    <string name="rate_status_rewatching">Пересматриваю</string>
+    <string name="rate_status_watched">Просмотрено</string>
+    <string name="rate_status_reading">Читаю</string>
+    <string name="rate_status_rereading">Перечитываю</string>
+    <string name="rate_status_readed">Прочитано</string>
+    <string name="rate_status_on_hold">Отложено</string>
+    <string name="rate_status_dropped">Брошено</string>
+
+    <string name="anime_kind_tv">TV-сериал</string>
+    <string name="anime_kind_movie">Фильм</string>
+    <string name="anime_kind_ova">OVA</string>
+    <string name="anime_kind_ona">ONA</string>
+    <string name="anime_kind_special">Спешл</string>
+    <string name="anime_kind_music">Клип</string>
+    <string name="manga_kind_manga">Манга</string>
+    <string name="manga_kind_manhua">Манхуа</string>
+    <string name="manga_kind_manhwa">Манхва</string>
+    <string name="manga_kind_doujin">Додзинси</string>
+    <string name="manga_kind_one_shot">Ваншот</string>
+    <string name="ranobe_kind_novel">Новела</string>
+    <string name="ranobe_kind_ranobe">Ранобэ</string>
+    <string name="kind_none" />
+
+    <string name="status_released">Вышло</string>
+    <string name="status_ongoing">Онгоинг</string>
+    <string name="status_anons">Анонс</string>
+
+    <string name="age_rating_g">G</string>
+    <string name="age_rating_pg">PG</string>
+    <string name="age_rating_pg_13">PG-13</string>
+    <string name="age_rating_r_17">R-17</string>
+    <string name="age_rating_r_plus">R+</string>
+    <string name="age_rating_rx">RX</string>
+
+    <string name="order_by_popularity">По популярности</string>
+    <string name="order_by_score">По рейтингу</string>
+    <string name="order_by_name">По алфавиту</string>
+    <string name="order_by_date_aired">По дате выхода</string>
+    <string name="order_by_id">По ID</string>
+
+    <string name="content_description_navigate_up">Вернуться</string>
+    <string name="content_description_clear">Очистить</string>
+    <string name="content_description_search">Поиск</string>
+    <string name="content_description_filter_list">Список фильтров</string>
+    <string name="content_description_close">Закрыть</string>
+
+    <string name="placeholder_search">Поиск</string>
+
+    <string name="title_anime">Аниме</string>
+    <string name="title_manga">Манга</string>
+    <string name="title_ranobe">Ранобэ</string>
+
+    <string name="action_apply">Применить</string>
+    <string name="action_retry">Обновить</string>
+
+    <string name="block_title_information">ИНФОРМАЦИЯ</string>
+    <string name="block_title_score">РЕЙТИНГ</string>
+    <string name="block_title_description">ОПИСАНИЕ</string>
+    <string name="block_title_studio">СТУДИЯ</string>
+    <string name="block_title_publisher">ИЗДАТЕЛЬ</string>
+    <string name="block_title_authors">АВТОРЫ</string>
+    <string name="block_title_similar">ПОХОЖЕЕ</string>
+    <string name="block_title_main_characters">ГЛАВНЫЕ ГЕРОИ</string>
+    <string name="block_title_minor_characters">ВТОРОСТЕПЕННЫЕ ГЕРОИ</string>
+    <string name="block_title_kind">ТИП</string>
+
+    <string name="roles">Роли</string>
+    <string name="filters">Фильтры</string>
+    <string name="empty_search_result">Поиск не дал результатов</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="kind">Тип</string>
+    <string name="episodes">Эпизоды</string>
+    <string name="volumes">Томов</string>
+    <string name="chapters">Глав</string>
+    <string name="duration">Длительность эпизода</string>
+    <string name="status">Статус</string>
+    <string name="age_rating">Возрастной рейтинг</string>
+    <string name="genres">Жанры</string>
+    <string name="rating">Возрастной рейтинг</string>
+    <string name="licensor">Лицензировано</string>
+    <string name="license_name">Лицензированно под именем</string>
+    <string name="alt_names">Алтернативные названия</string>
+    <string name="no_description">Нет описания</string>
+    
+    <string name="score_worse_than_ever">Хуже не куда</string>
+    <string name="score_very_bad">Очень плохо</string>
+    <string name="score_bad">Плохо</string>
+    <string name="score_more_or_less">Более менее</string>
+    <string name="score_normal">Нормально</string>
+    <string name="score_good">Хорошо</string>
+    <string name="score_great">Отлично</string>
+    <string name="score_fabulous">Великолепно</string>
+</resources>
