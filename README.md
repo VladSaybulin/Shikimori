@@ -3,7 +3,7 @@
 Android app, which connects to
 [Shikimori](https://www.shikimori.one).
 
-## Android development
+## Development
 
 As a summary:
 
