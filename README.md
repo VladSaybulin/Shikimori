@@ -13,4 +13,4 @@ As a summary:
 
 ## Development Setup
 
-First off, you require the latest Android Studio 4.2 Canary to be able to build the app. This is because the project is written in Jetpack Compose
+You require the latest Android Studio 4.2 Canary to be able to build the app. This is because the project is written in Jetpack Compose
