@@ -1,7 +1,7 @@
 # Shikimori
 
 Android app, which connects to
-[shikimori.one](https://www.shikimori.one).
+[Shikimori](https://www.shikimori.one).
 
 ## Android development
 
